@@ -4,8 +4,6 @@
 - Create Procfile for Heroku
 https://devcenter.heroku.com/articles/getting-started-with-rails6
 
-- Add rspec for testing
-
 - Add Bootstrap
 
 
@@ -14,6 +12,10 @@ https://devcenter.heroku.com/articles/getting-started-with-rails6
 
 ## nvm Tutorial
 https://davidwalsh.name/nvm
+
+
+## rspec-rails Documentation
+https://github.com/rspec/rspec-rails
 
 ## Ruby Tutorial
 http://ruby-doc.com/docs/ProgrammingRuby/
