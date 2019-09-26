@@ -6,6 +6,8 @@ https://devcenter.heroku.com/articles/getting-started-with-rails6
 
 - Add Bootstrap
 
+## Bootstrap Installation Tutorial
+https://medium.com/@adrian_teh/ruby-on-rails-6-with-webpacker-and-bootstrap-step-by-step-guide-41b52ef4081f
 
 ## Heroku Installation
 https://devcenter.heroku.com/articles/getting-started-with-rails6
