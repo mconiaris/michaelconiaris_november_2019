@@ -5,6 +5,9 @@
 https://devcenter.heroku.com/articles/getting-started-with-rails6
 
 - Add Bootstrap and Learn about Webpack Configuration
+https://gorails.com/forum/install-bootstrap-with-webpack-with-rails-6-beta
+
+
 https://medium.com/@guilhermepejon/how-to-install-bootstrap-4-3-in-a-rails-6-app-using-webpack-9eae7a6e2832
 
 ## Bootstrap Installation Tutorial
