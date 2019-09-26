@@ -45,3 +45,6 @@ https://webpack.js.org/guides/getting-started/
 ## Webpacker Tutorials
 https://medium.com/@adrian_teh/ruby-on-rails-6-with-webpacker-and-bootstrap-step-by-step-guide-41b52ef4081f
 
+https://stackoverflow.com/questions/45496267/what-is-the-pros-and-cons-of-using-rails-asset-pipeline-vs-webpack-to-hold-asse#50130903
+
+
