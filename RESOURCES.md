@@ -39,6 +39,9 @@ https://stackoverflow.com/questions/58065428/vanilla-rails-6-0-error-command-web
 ## Webpacker Documentation
 https://github.com/rails/webpacker
 
+## Webpacker Guide
+https://webpack.js.org/guides/getting-started/
+
 ## Webpacker Tutorials
 https://medium.com/@adrian_teh/ruby-on-rails-6-with-webpacker-and-bootstrap-step-by-step-guide-41b52ef4081f
 
