@@ -1,9 +1,6 @@
 # RESOURCES
 
 ## TODO
-- Create Procfile for Heroku
-https://devcenter.heroku.com/articles/getting-started-with-rails6
-
 - Add Bootstrap and Learn about Webpack Configuration
 https://gorails.com/forum/install-bootstrap-with-webpack-with-rails-6-beta
 
@@ -15,7 +12,12 @@ https://medium.com/@guilhermepejon/how-to-install-bootstrap-4-3-in-a-rails-6-app
 
 https://medium.com/@adrian_teh/ruby-on-rails-6-with-webpacker-and-bootstrap-step-by-step-guide-41b52ef4081f
 
+## Heroku Docuentation
+Procfile: https://devcenter.heroku.com/articles/procfile
+
 ## Heroku Installation
+https://devcenter.heroku.com/articles/getting-started-with-rails6
+
 https://devcenter.heroku.com/articles/getting-started-with-rails6
 
 ## nvm Tutorial
