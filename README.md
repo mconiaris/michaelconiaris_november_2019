@@ -21,4 +21,7 @@ Things you may want to cover:
 
 * Deployment instructions
 
+# Stylesheets
+In order to get your stylesheets working via webpack, you will need to import them into your webpack JavaScript file. That’s just how webpack works.
+
 * ...
