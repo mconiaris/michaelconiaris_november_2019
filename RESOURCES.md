@@ -8,6 +8,8 @@ https://gorails.com/forum/install-bootstrap-with-webpack-with-rails-6-beta
 https://medium.com/@guilhermepejon/how-to-install-bootstrap-4-3-in-a-rails-6-app-using-webpack-9eae7a6e2832
 
 ## Bootstrap Installation Tutorial
+https://gorails.com/forum/install-bootstrap-with-webpack-with-rails-6-beta
+
 https://medium.com/@adrian_teh/ruby-on-rails-6-with-webpacker-and-bootstrap-step-by-step-guide-41b52ef4081f
 
 https://medium.com/@guilhermepejon/how-to-install-bootstrap-4-3-in-a-rails-6-app-using-webpack-9eae7a6e2832
