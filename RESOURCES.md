@@ -1,6 +1,8 @@
 # RESOURCES
 
 ## TODO
+- Why is Bootstrap not loading on Heroku?
+
 - Figure out where to place custom css files and why.
 https://gorails.com/forum/install-bootstrap-with-webpack-with-rails-6-beta
 
