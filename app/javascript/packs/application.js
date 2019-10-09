@@ -19,6 +19,7 @@ require("channels")
 import 'bootstrap'
 import './src/application.scss'
 
+
 document.addEventListener("turbolinks:load", () => {
 	$('[data-taggle="tooltip"]').tooltip()
 })
