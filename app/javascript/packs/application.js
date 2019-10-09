@@ -17,7 +17,6 @@ require("channels")
 // const imagePath = (name) => images(name, true)
 
 import 'bootstrap'
-import "../../../node_modules/bootstrap/scss/bootstrap.scss" // for Heroku
 import './src/application.scss'
 
 
