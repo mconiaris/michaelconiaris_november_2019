@@ -67,4 +67,6 @@ https://medium.com/@adrian_teh/ruby-on-rails-6-with-webpacker-and-bootstrap-step
 
 https://stackoverflow.com/questions/45496267/what-is-the-pros-and-cons-of-using-rails-asset-pipeline-vs-webpack-to-hold-asse#50130903
 
+https://prathamesh.tech/2019/08/26/understanding-webpacker-in-rails-6/
+
 
