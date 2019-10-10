@@ -69,4 +69,6 @@ https://stackoverflow.com/questions/45496267/what-is-the-pros-and-cons-of-using-
 
 https://prathamesh.tech/2019/08/26/understanding-webpacker-in-rails-6/
 
+https://prathamesh.tech/2019/09/24/mastering-packs-in-webpacker/
+
 
