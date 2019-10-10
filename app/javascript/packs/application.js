@@ -17,6 +17,7 @@ require("channels")
 // const imagePath = (name) => images(name, true)
 
 import '../stylesheets/application'
+import 'bootstrap'
 
 
 document.addEventListener("turbolinks:load", () => {
