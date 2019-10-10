@@ -46,7 +46,7 @@ http://ruby-doc.com/docs/ProgrammingRuby/
 https://github.com/rails/rails
 
 ## Ruby on Rails Documentation
-https://api.rubyonrails.org/v5.2.3/
+https://api.rubyonrails.org
 
 ## Ruby on Rails Tutorials
 https://guides.rubyonrails.org/getting_started.html
