@@ -1,6 +1,8 @@
 # RESOURCES
 
 ## TODO
+- Set up components using bootstrap: https://getbootstrap.com/docs/4.3/layout/overview/
+
 -  We detected that some binary dependencies required to
 remote:        use all the preview features of Active Storage are not
 remote:        present on this system.
