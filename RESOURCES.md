@@ -1,7 +1,7 @@
 # RESOURCES
 
 ## TODO
-- Set up components using bootstrap: https://getbootstrap.com/docs/4.3/layout/overview/
+- Figure out how to incorporate span tag into Rails URL helper with boostrap. Read documentation. https://getbootstrap.com/docs/4.0/components/navbar/
 
 -  We detected that some binary dependencies required to
 remote:        use all the preview features of Active Storage are not
