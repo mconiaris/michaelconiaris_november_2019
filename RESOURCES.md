@@ -10,6 +10,9 @@ remote:
 remote:        For more information please see:
 remote:          https://devcenter.heroku.com/articles/active-storage-on-heroku
 
+## Bootstrap 4.3 Documentation
+https://getbootstrap.com/docs/4.3/getting-started/introduction/
+
 ## Bootstrap Installation Tutorial
 ### Working Example
 https://gorails.com/forum/install-bootstrap-with-webpack-with-rails-6-beta
