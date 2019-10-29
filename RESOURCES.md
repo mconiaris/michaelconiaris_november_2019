@@ -34,6 +34,9 @@ https://devcenter.heroku.com/articles/getting-started-with-rails6
 ## nvm Tutorial
 https://davidwalsh.name/nvm
 
+## pry Documentation
+https://github.com/rweng/pry-rails
+
 
 ## rspec-rails Documentation
 https://github.com/rspec/rspec-rails
