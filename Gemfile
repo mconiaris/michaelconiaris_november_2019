@@ -43,7 +43,7 @@ group :development do
   gem 'spring'
   gem 'spring-watcher-listen', '~> 2.0.0'
   # pry as IRB replacement.
-  gem 'pry', '~> 0.12.2'
+  gem 'pry-rails'
 end
 
 group :test do
