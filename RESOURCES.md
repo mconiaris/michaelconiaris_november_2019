@@ -1,6 +1,7 @@
 # RESOURCES
 
 ## TODO
+- Figure out how to add active tag to root.
 - Figure out how to incorporate span tag into Rails URL helper with boostrap. Read documentation. https://getbootstrap.com/docs/4.0/components/navbar/
 
 -  We detected that some binary dependencies required to
