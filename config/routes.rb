@@ -5,7 +5,7 @@ Rails.application.routes.draw do
 	get 'about', to: 'welcome#about'
 	get 'contact', to: 'welcome#contact'
 
-	get '*path' => redirect('index')
+	get '*path', to: 'welcome#index'
 
   root 'welcome#index'
 end
