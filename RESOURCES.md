@@ -2,6 +2,8 @@
 
 ## TODO
 - Figure out how to incorporate span tag into Rails URL helper with boostrap. Read documentation. https://getbootstrap.com/docs/4.0/components/navbar/
+- Learn accessibility in Bootstrap: https://getbootstrap.com/docs/4.3/components/navs/#regarding-accessibility
+
 
 -  We detected that some binary dependencies required to
 remote:        use all the preview features of Active Storage are not
