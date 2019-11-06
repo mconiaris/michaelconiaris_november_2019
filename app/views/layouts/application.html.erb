@@ -28,6 +28,12 @@
               <%= link_to "Home", index_path, class:  root_or_active_class(index_path) %><span class="sr-only">(current)</span>
             </li>
             <li class="nav-item" %>
+              <%= link_to "Code", code_path, class: active_class(code_path) %>
+            </li>
+            <li class="nav-item" %>
+              <%= link_to "Photography", photos_path, class: active_class(photos_path) %>
+            </li>
+            <li class="nav-item" %>
               <%= link_to "About", about_path, class: active_class(about_path) %>
             </li>
             <li class="nav-item">

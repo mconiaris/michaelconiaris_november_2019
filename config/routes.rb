@@ -6,6 +6,8 @@ Rails.application.routes.draw do
 	get 'index', to: 'welcome#index'
 	get 'about', to: 'welcome#about'
 	get 'contact', to: 'welcome#contact'
+	get 'code', to: 'welcome#code'
+	get 'photos', to: 'welcome#photos'
 
 	get '*path', to: 'welcome#index'
 end
