@@ -4,6 +4,8 @@
 - Figure out how to incorporate span tag into Rails URL helper with boostrap. Read documentation. https://getbootstrap.com/docs/4.0/components/navbar/
 - Learn accessibility in Bootstrap: https://getbootstrap.com/docs/4.3/components/navs/#regarding-accessibility
 - Replace local Bootstrap code with CDN: https://guides.rubyonrails.org/asset_pipeline.html#set-up-a-cdn-to-serve-static-assets
+- Set up responsive breakpoints in Bootstrap: https://getbootstrap.com/docs/4.3/layout/overview/#responsive-breakpoints
+
 
 
 -  We detected that some binary dependencies required to
