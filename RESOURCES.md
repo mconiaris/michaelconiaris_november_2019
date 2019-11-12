@@ -1,6 +1,12 @@
 # RESOURCES
 
 ## TODO
+- Figure out why image links are bombing on Heroku.
+- WARNING:
+We detected that some binary dependencies required to use all the preview features of Active Storage are not present on this system.
+For more information please see:
+https://devcenter.heroku.com/articles/active-storage-on-heroku
+
 - Figure out how to incorporate span tag into Rails URL helper with boostrap. Read documentation. https://getbootstrap.com/docs/4.0/components/navbar/
 - Learn accessibility in Bootstrap: https://getbootstrap.com/docs/4.3/components/navs/#regarding-accessibility
 - Replace local Bootstrap code with CDN: https://guides.rubyonrails.org/asset_pipeline.html#set-up-a-cdn-to-serve-static-assets
