@@ -2,6 +2,7 @@
 
 ## TODO
 - Figure out why image links are bombing on Heroku.
+- Rails bash: https://stackoverflow.com/questions/46391653/how-can-i-run-rails-console-in-heroku-rails-5-1-and-postgresql
 - WARNING:
 We detected that some binary dependencies required to use all the preview features of Active Storage are not present on this system.
 For more information please see:
