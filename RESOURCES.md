@@ -1,7 +1,7 @@
 # RESOURCES
 
 ## TODO
-- Figure out why image links are bombing on Heroku.
+- Figure out why image links are bombing on Heroku. (Helper link crashes page, regular link just doesn't load.)
 - Rails bash: https://stackoverflow.com/questions/46391653/how-can-i-run-rails-console-in-heroku-rails-5-1-and-postgresql
 - WARNING:
 We detected that some binary dependencies required to use all the preview features of Active Storage are not present on this system.
