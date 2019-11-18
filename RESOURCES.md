@@ -13,15 +13,6 @@ https://devcenter.heroku.com/articles/active-storage-on-heroku
 - Replace local Bootstrap code with CDN: https://guides.rubyonrails.org/asset_pipeline.html#set-up-a-cdn-to-serve-static-assets
 - Set up responsive breakpoints in Bootstrap: https://getbootstrap.com/docs/4.3/layout/overview/#responsive-breakpoints
 
-
-
--  We detected that some binary dependencies required to
-remote:        use all the preview features of Active Storage are not
-remote:        present on this system.
-remote:        
-remote:        For more information please see:
-remote:          https://devcenter.heroku.com/articles/active-storage-on-heroku
-
 ## Bootstrap 4.3 Documentation
 https://getbootstrap.com/docs/4.3/getting-started/introduction/
 
