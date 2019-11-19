@@ -16,6 +16,9 @@ https://devcenter.heroku.com/articles/active-storage-on-heroku
 ## AWS S3 Documentation
 https://aws.amazon.com/s3/
 
+## AWS S3 and Heroku
+https://devcenter.heroku.com/articles/direct-to-s3-image-uploads-in-rails
+
 ## Bootstrap 4.3 Documentation
 https://getbootstrap.com/docs/4.3/getting-started/introduction/
 
