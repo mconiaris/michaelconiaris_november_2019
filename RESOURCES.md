@@ -13,6 +13,9 @@ https://devcenter.heroku.com/articles/active-storage-on-heroku
 - Replace local Bootstrap code with CDN: https://guides.rubyonrails.org/asset_pipeline.html#set-up-a-cdn-to-serve-static-assets
 - Set up responsive breakpoints in Bootstrap: https://getbootstrap.com/docs/4.3/layout/overview/#responsive-breakpoints
 
+## AWS Gem
+https://github.com/aws/aws-sdk-ruby
+
 ## AWS S3 Documentation
 https://aws.amazon.com/s3/
 
