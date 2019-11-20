@@ -16,6 +16,8 @@ https://devcenter.heroku.com/articles/active-storage-on-heroku
 ## AWS S3 Documentation
 https://aws.amazon.com/s3/
 
+https://aws.amazon.com/getting-started/tutorials/backup-files-to-amazon-s3/
+
 ## AWS S3 and Heroku
 https://devcenter.heroku.com/articles/s3
 
