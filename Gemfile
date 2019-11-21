@@ -56,7 +56,7 @@ end
 
 # Amazon S3 services to load images to Heroku
 group :production do
-  gem 'aws-sdk-s3', '~> 3', require: false
+  gem 'aws-sdk-s3', '~> 1', require: false
 end
 
 
