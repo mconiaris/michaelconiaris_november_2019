@@ -17,6 +17,8 @@ https://devcenter.heroku.com/articles/active-storage-on-heroku
 https://github.com/aws/aws-sdk-ruby
 
 ## AWS S3 Documentation
+https://docs.aws.amazon.com/s3/index.html
+
 https://aws.amazon.com/s3/
 
 https://aws.amazon.com/getting-started/tutorials/backup-files-to-amazon-s3/
