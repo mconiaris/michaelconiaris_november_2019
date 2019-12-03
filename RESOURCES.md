@@ -29,6 +29,9 @@ https://devcenter.heroku.com/articles/s3
 https://devcenter.heroku.com/articles/direct-to-s3-image-uploads-in-rails
 
 ## AWS S3 Tutorials
+https://medium.com/alturasoluciones/setting-up-rails-5-active-storage-with-amazon-s3-3d158cf021ff
+
+
 https://www.labnol.org/internet/tools/amazon-s3-buckets-tutorial/3890/
 
 ## Bootstrap 4.3 Documentation
