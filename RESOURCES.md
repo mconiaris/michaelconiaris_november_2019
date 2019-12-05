@@ -35,6 +35,11 @@ https://medium.com/alturasoluciones/setting-up-rails-5-active-storage-with-amazo
 
 https://www.labnol.org/internet/tools/amazon-s3-buckets-tutorial/3890/
 
+
+## AWS_SDK_RUBY
+https://github.com/aws/aws-sdk-ruby
+
+
 ## Bootstrap 4.3 Documentation
 https://getbootstrap.com/docs/4.3/getting-started/introduction/
 
