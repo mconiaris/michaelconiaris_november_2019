@@ -1,6 +1,10 @@
 # RESOURCES
 
 ## TODO
+- Read about Working with Amazon S3 Buckets: https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingBucket.html
+- Read about Permissions for Website Access: https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteAccessPermissionsReqd.html
+- Read about S3 Security: https://docs.aws.amazon.com/AmazonS3/latest/dev/security.html
+
 - Figure out why image links are bombing on Heroku. (Helper link crashes page, regular link just doesn't load.)
 - Set up CORS on AWS? https://docs.aws.amazon.com/AmazonS3/latest/dev/cors.html
 - Rails bash: https://stackoverflow.com/questions/46391653/how-can-i-run-rails-console-in-heroku-rails-5-1-and-postgresql
