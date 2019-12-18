@@ -1,6 +1,7 @@
 # RESOURCES
 
 ## TODO
+- Review Active Storage docs. Keep files for localhost or configure AWS to work in development?
 - Read about Working with Amazon S3 Buckets: https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingBucket.html
 - Read about Permissions for Website Access: https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteAccessPermissionsReqd.html
 - Read about S3 Security: https://docs.aws.amazon.com/AmazonS3/latest/dev/security.html
