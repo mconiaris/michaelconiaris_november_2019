@@ -1,8 +1,12 @@
 # RESOURCES
 
 ## TODO
+- Research implications of: config.assets.compile = true
+
+
 - Heroku Error:
 2019-12-19T20:02:23.394438+00:00 app[web.1]: [ccad8215-d7dc-4b2e-9861-c388ebb79961] ActionView::Template::Error (The asset "code_logo" is not present in the asset pipeline.)
+https://stackoverflow.com/questions/56570204/asset-is-not-present-in-asset-pipeline-after-deploy-to-heroku-with-webpacker
 
 
 - Review Active Storage docs. Keep files for localhost or configure AWS to work in development?
