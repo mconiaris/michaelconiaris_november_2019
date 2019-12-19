@@ -1,6 +1,10 @@
 # RESOURCES
 
 ## TODO
+- Heroku Error:
+2019-12-19T20:02:23.394438+00:00 app[web.1]: [ccad8215-d7dc-4b2e-9861-c388ebb79961] ActionView::Template::Error (The asset "code_logo" is not present in the asset pipeline.)
+
+
 - Review Active Storage docs. Keep files for localhost or configure AWS to work in development?
 - Read about Working with Amazon S3 Buckets: https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingBucket.html
 - Read about Permissions for Website Access: https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteAccessPermissionsReqd.html
