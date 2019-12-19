@@ -5,7 +5,6 @@
 - Read about Working with Amazon S3 Buckets: https://docs.aws.amazon.com/AmazonS3/latest/dev/UsingBucket.html
 - Read about Permissions for Website Access: https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteAccessPermissionsReqd.html
 - Read about S3 Security: https://docs.aws.amazon.com/AmazonS3/latest/dev/security.html
-
 - Figure out why image links are bombing on Heroku. (Helper link crashes page, regular link just doesn't load.)
 - Set up CORS on AWS? https://docs.aws.amazon.com/AmazonS3/latest/dev/cors.html
 - Rails bash: https://stackoverflow.com/questions/46391653/how-can-i-run-rails-console-in-heroku-rails-5-1-and-postgresql
@@ -13,7 +12,6 @@
 We detected that some binary dependencies required to use all the preview features of Active Storage are not present on this system.
 For more information please see:
 https://devcenter.heroku.com/articles/active-storage-on-heroku
-
 - Figure out how to incorporate span tag into Rails URL helper with boostrap. Read documentation. https://getbootstrap.com/docs/4.0/components/navbar/
 - Learn accessibility in Bootstrap: https://getbootstrap.com/docs/4.3/components/navs/#regarding-accessibility
 - Replace local Bootstrap code with CDN: https://guides.rubyonrails.org/asset_pipeline.html#set-up-a-cdn-to-serve-static-assets
