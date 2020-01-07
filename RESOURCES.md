@@ -3,6 +3,14 @@
 ## TODO
 - Research implications of: config.assets.compile = true
 
+Don't do it: https://stackoverflow.com/questions/8821864/config-assets-compile-true-in-rails-production-why-not
+
+Maybe do it: https://stackoverflow.com/questions/39538940/rails-5-config-assets-compile-should-be-true-why
+
+Alternative: https://stackoverflow.com/questions/51944864/config-assets-compile-false-makes-heroku-not-display-my-images-in-production
+
+
+
 
 - Heroku Error:
 2019-12-19T20:02:23.394438+00:00 app[web.1]: [ccad8215-d7dc-4b2e-9861-c388ebb79961] ActionView::Template::Error (The asset "code_logo" is not present in the asset pipeline.)
