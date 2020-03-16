@@ -13,10 +13,10 @@
     </ol>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/samples/buffalo_bills_fans.jpg" class="d-block w-100" alt="Buffalo Bills fan cheer a touchdown in a NYC Bar.">
+        <img src=<%= get_photo_one[:link] %> class="d-block w-100" alt="Buffalo Bills fan cheer a touchdown in a NYC Bar.">
         <div class="carousel-caption d-none d-md-block">
-          <h5>Cheering a Touchdown</h5>
-          <p>The NYC Buffalo Bills Backers cheer a touchdown at McFadden's in Manhattan.</p>
+          <h5><%= get_photo_one[:title] %></h5>
+          <p><%= get_photo_one[:caption] %></p>
         </div>
       </div>
       <div class="carousel-item">
