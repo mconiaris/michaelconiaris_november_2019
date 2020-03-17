@@ -1,5 +1,6 @@
 module WelcomeHelper
 
+	# Index Page Photos
 	def get_code_photo
 		{
 			link: "https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/code_logo.jpg",
@@ -14,6 +15,15 @@ module WelcomeHelper
 		}
 	end
 
+		def get_photos_photo
+		{
+			link: "https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/photos_logo.jpg",
+			alt: "Link to Photography Page."
+		}
+	end
+
+
+	# Photos Page
 	def get_photo_one
 		{ 
 			link: "https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/samples/buffalo_bills_fans.jpg",
