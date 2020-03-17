@@ -1,5 +1,12 @@
 module WelcomeHelper
 
+	def get_code_photo
+		{
+			link: "https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/code_logo.jpg",
+			alt: "Link to Code Page."
+		}
+	end
+
 	def get_contact_photo
 		{
 			link: "https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/Computer+Keyboard.jpeg",
