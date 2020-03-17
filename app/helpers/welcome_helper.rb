@@ -2,7 +2,7 @@ module WelcomeHelper
 
 	def get_contact_photo
 		{
-			link: "https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/samples/Computer+Keyboard.jpeg",
+			link: "https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/Computer+Keyboard.jpeg",
 			alt: "Link to Contact Page."
 		}
 	end
