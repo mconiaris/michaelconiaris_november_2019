@@ -10,7 +10,7 @@
   </div>
   <div class="col-sm-6 col-lg-3">
     <h1>About</h1>
-    <p><%= link_to(image_tag("contact_logo", class: "img-fluid", alt: "Link to About Page"), about_path, class: "logo_image") %></p>
+    <p><%= link_to(image_tag(get_about_photo[:link], class: "img-fluid", alt: get_about_photo[:alt]), about_path, class: "logo_image") %></p>
   </div>
   <div class="col-sm-6 col-lg-3">
     <h1>Contact</h1>

@@ -1,6 +1,13 @@
 module WelcomeHelper
 
 	# Index Page Photos
+	def get_about_photo
+		{
+			link: "https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/about_logo.jpg",
+			alt: "Link to About Page."
+		}
+	end
+
 	def get_code_photo
 		{
 			link: "https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/code_logo.jpg",
