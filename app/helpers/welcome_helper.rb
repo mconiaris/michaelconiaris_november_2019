@@ -1,5 +1,12 @@
 module WelcomeHelper
 
+	def get_contact_photo
+		{
+			link: "https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/samples/Computer+Keyboard.jpeg",
+			alt: "Computer keyboard photo."
+		}
+	end
+
 	def get_photo_one
 		{ 
 			link: "https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/samples/buffalo_bills_fans.jpg",
