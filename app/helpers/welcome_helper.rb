@@ -29,6 +29,14 @@ module WelcomeHelper
 		}
 	end
 
+	# Code Page
+	def get_code_example_one_photo
+		{
+			link: "https://s3.us-east-2.amazonaws.com/media.michaelconiaris.com/images/SWF_Scrape.png",
+			alt: "Output to Terminal of the SWF Scrape App."
+		}
+	end
+
 
 	# Photos Page
 	def get_photo_one
