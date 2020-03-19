@@ -11,6 +11,6 @@
 		</div>
   </div>
   <div class="col-lg-6">
-		<p><%= link_to(image_tag("contact_logo", class: "img-fluid", alt: "Link to Contact Page"), photos_path, class: "logo_image") %></p>
+		<p><%= image_tag(get_contact_photo[:link], class: "img-fluid", alt: get_contact_photo[:alt]) %></p>
   </div>
 </div>
