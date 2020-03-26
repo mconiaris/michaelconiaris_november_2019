@@ -1,6 +1,9 @@
 # RESOURCES
 
 ## TODO
+- Set up SSL on server
+
+
 HEADS UP! i18n 1.1 changed fallbacks to exclude default locale.
 But that may break your application.
 
